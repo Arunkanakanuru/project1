@@ -1,3 +1,7 @@
 print "hello world"
 echo "hello world"
+<<<<<<< Updated upstream
 repo "hello world"
+=======
+arun
+>>>>>>> Stashed changes
